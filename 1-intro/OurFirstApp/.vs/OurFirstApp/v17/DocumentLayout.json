@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\1-intro\\OurFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA133A5F-0D3C-4DBA-A723-9B53124EC2C8}|OurFirstApp\\OurFirstApp.csproj|d:\\progtemp\\itucation\\1-intro\\ourfirstapp\\ourfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA133A5F-0D3C-4DBA-A723-9B53124EC2C8}|OurFirstApp\\OurFirstApp.csproj|solutionrelative:ourfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\1-intro\\OurFirstApp\\OurFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "OurFirstApp\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\1-intro\\OurFirstApp\\OurFirstApp\\Program.cs",
+              "RelativeToolTip": "OurFirstApp\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:13:16.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

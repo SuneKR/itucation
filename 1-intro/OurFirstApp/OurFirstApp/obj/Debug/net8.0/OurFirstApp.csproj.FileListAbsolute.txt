@@ -1,0 +1,14 @@
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\bin\Debug\net8.0\OurFirstApp.exe
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\bin\Debug\net8.0\OurFirstApp.deps.json
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\bin\Debug\net8.0\OurFirstApp.runtimeconfig.json
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\bin\Debug\net8.0\OurFirstApp.dll
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\bin\Debug\net8.0\OurFirstApp.pdb
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.AssemblyInfoInputs.cache
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.AssemblyInfo.cs
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.dll
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\refint\OurFirstApp.dll
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.pdb
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\OurFirstApp.genruntimeconfig.cache
+D:\progTemp\itucation\1-intro\OurFirstApp\OurFirstApp\obj\Debug\net8.0\ref\OurFirstApp.dll
