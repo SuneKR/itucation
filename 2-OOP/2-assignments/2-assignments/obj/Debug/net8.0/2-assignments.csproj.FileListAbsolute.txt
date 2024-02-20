@@ -1,0 +1,15 @@
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\bin\Debug\net8.0\2-assignments.exe
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\bin\Debug\net8.0\2-assignments.deps.json
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\bin\Debug\net8.0\2-assignments.runtimeconfig.json
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\bin\Debug\net8.0\2-assignments.dll
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\bin\Debug\net8.0\2-assignments.pdb
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.AssemblyInfoInputs.cache
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.AssemblyInfo.cs
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.sourcelink.json
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.dll
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\refint\2-assignments.dll
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.pdb
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\2-assignments.genruntimeconfig.cache
+D:\progTemp\itucation\2-OOP\2-assignments\2-assignments\obj\Debug\net8.0\ref\2-assignments.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|d:\\progtemp\\itucation\\2-oop\\2-assignments\\2-assignments\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|solutionrelative:2-assignments\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|d:\\progtemp\\itucation\\2-oop\\2-assignments\\2-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|solutionrelative:2-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|d:\\progtemp\\itucation\\2-oop\\2-assignments\\2-assignments\\clickcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|solutionrelative:2-assignments\\clickcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|d:\\progtemp\\itucation\\2-oop\\2-assignments\\2-assignments\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|solutionrelative:2-assignments\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|d:\\progtemp\\itucation\\2-oop\\2-assignments\\2-assignments\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|solutionrelative:2-assignments\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|d:\\progtemp\\itucation\\2-oop\\2-assignments\\2-assignments\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4C46A4-2616-41A0-B6F9-A9952B7AFF0C}|2-assignments\\2-assignments.csproj|solutionrelative:2-assignments\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\BankAccount.cs",
+              "RelativeDocumentMoniker": "2-assignments\\BankAccount.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\BankAccount.cs",
+              "RelativeToolTip": "2-assignments\\BankAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T15:01:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Class.cs",
+              "RelativeDocumentMoniker": "2-assignments\\Class.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Class.cs",
+              "RelativeToolTip": "2-assignments\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:09:56.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Student.cs",
+              "RelativeDocumentMoniker": "2-assignments\\Student.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Student.cs",
+              "RelativeToolTip": "2-assignments\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:24:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Die.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Die.cs",
+              "RelativeDocumentMoniker": "2-assignments\\Die.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Die.cs",
+              "RelativeToolTip": "2-assignments\\Die.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T12:30:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClickCounter.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\ClickCounter.cs",
+              "RelativeDocumentMoniker": "2-assignments\\ClickCounter.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\ClickCounter.cs",
+              "RelativeToolTip": "2-assignments\\ClickCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T12:08:04.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Program.cs",
+              "RelativeDocumentMoniker": "2-assignments\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\2-OOP\\2-assignments\\2-assignments\\Program.cs",
+              "RelativeToolTip": "2-assignments\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T12:03:48.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

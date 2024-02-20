@@ -1,0 +1,15 @@
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.exe
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.deps.json
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.runtimeconfig.json
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.dll
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.pdb
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.AssemblyInfoInputs.cache
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.AssemblyInfo.cs
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.sourcelink.json
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.dll
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\refint\ClassAndObject.dll
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.pdb
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.genruntimeconfig.cache
+D:\progTemp\itucation\2-OOP\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ref\ClassAndObject.dll
