@@ -59,8 +59,9 @@ namespace _1_Assignments
             Console.WriteLine("\"Help me, Obi-Wan Kenobi. You’re my only hope.\" - Captain Picard");
 
             Console.Write("Exercise 2D:");
-            string DifferentWrongPerson = "Second-class technician Rimmer";
-            Console.WriteLine($"\"Help me, Obi-Wan Kenobi. You’re my only hope.\" - { DifferentWrongPerson }");
+            string FamousQuote = "Help me, Obi-Wan Kenobi. You’re my only hope.";
+            string FamousPerson = "Second-class technician Rimmer";
+            Console.WriteLine($"\"{ FamousQuote }\" - { FamousPerson }");
 
             Console.WriteLine("Exercise 2E: Different trims of Name with whitespace (none, left, right, both)");
             string WhitespaceName = "   Paul Atreides   ";
