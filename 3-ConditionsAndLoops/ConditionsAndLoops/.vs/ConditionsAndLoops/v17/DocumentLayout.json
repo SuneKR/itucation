@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABFD63C-1CF1-4BA4-BAB9-98CBF4681AB6}|3-assigments\\3-assigments.csproj|d:\\progtemp\\itucation\\3-conditionsandloops\\conditionsandloops\\3-assigments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABFD63C-1CF1-4BA4-BAB9-98CBF4681AB6}|3-assigments\\3-assigments.csproj|solutionrelative:3-assigments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0205B2-F007-4A5A-9DFF-FBB6A68CFEC9}|LoopsDemo\\LoopsDemo.csproj|d:\\progtemp\\itucation\\3-conditionsandloops\\conditionsandloops\\loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0205B2-F007-4A5A-9DFF-FBB6A68CFEC9}|LoopsDemo\\LoopsDemo.csproj|solutionrelative:loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD716C96-2DA7-4B19-A785-408B92FA6B7E}|ConditionsDemo\\ConditionsDemo.csproj|d:\\progtemp\\itucation\\3-conditionsandloops\\conditionsandloops\\conditionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD716C96-2DA7-4B19-A785-408B92FA6B7E}|ConditionsDemo\\ConditionsDemo.csproj|solutionrelative:conditionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\3-assigments\\Program.cs",
+              "RelativeDocumentMoniker": "3-assigments\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\3-assigments\\Program.cs",
+              "RelativeToolTip": "3-assigments\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:16:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\LoopsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoopsDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\LoopsDemo\\Program.cs",
+              "RelativeToolTip": "LoopsDemo\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwGYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:11:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\ConditionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionsDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\ConditionsDemo\\Program.cs",
+              "RelativeToolTip": "ConditionsDemo\\Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:35:48.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

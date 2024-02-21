@@ -159,10 +159,10 @@ namespace _2_assignments
 
             #region Staging Area
             Exercise1();
-            Exercise2();
-            Exercise3();
-            Exercise4();
-            Exercise5();
+            //Exercise2();
+            //Exercise3();
+            //Exercise4();
+            //Exercise5();
             #endregion
         }
     }

@@ -1,0 +1,15 @@
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\bin\Debug\net8.0\3-assigments.exe
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\bin\Debug\net8.0\3-assigments.deps.json
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\bin\Debug\net8.0\3-assigments.runtimeconfig.json
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\bin\Debug\net8.0\3-assigments.dll
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\bin\Debug\net8.0\3-assigments.pdb
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.AssemblyInfoInputs.cache
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.AssemblyInfo.cs
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.sourcelink.json
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.dll
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\refint\3-assigments.dll
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.pdb
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\3-assigments.genruntimeconfig.cache
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\3-assigments\obj\Debug\net8.0\ref\3-assigments.dll

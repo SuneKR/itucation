@@ -1,0 +1,15 @@
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\bin\Debug\net8.0\ConditionsDemo.exe
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\bin\Debug\net8.0\ConditionsDemo.deps.json
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\bin\Debug\net8.0\ConditionsDemo.runtimeconfig.json
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\bin\Debug\net8.0\ConditionsDemo.dll
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\bin\Debug\net8.0\ConditionsDemo.pdb
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.AssemblyInfo.cs
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.sourcelink.json
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.dll
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\refint\ConditionsDemo.dll
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.pdb
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ConditionsDemo.genruntimeconfig.cache
+D:\progTemp\itucation\3-ConditionsAndLoops\ConditionsAndLoops\ConditionsDemo\obj\Debug\net8.0\ref\ConditionsDemo.dll
