@@ -38,8 +38,8 @@ namespace _3_assigments
             bool magicWordFound = false;
             int guesses = 0;
 
-            
-            do
+
+            while (!magicWordFound && guesses < 3) ;
             {
                 Console.WriteLine("Guess the magic word in less than three guesses");
                 Console.WriteLine("or be forever locked out till next program run");
@@ -61,8 +61,7 @@ namespace _3_assigments
                         else { Console.WriteLine("You have guessed wrong. Your are locked out!"); }
                         break;
                 }
-
-            } while (!magicWordFound && guesses < 3);
+            } 
         }
         #endregion
 
@@ -211,7 +210,7 @@ namespace _3_assigments
             #endregion
 
             #region Staging area
-            //Exercise1();
+            Exercise1();
             //Exercise2();
             //Exercise3();
             //Exercise4();

@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "3-assigments\\Program.cs",
               "ToolTip": "D:\\progTemp\\itucation\\3-ConditionsAndLoops\\ConditionsAndLoops\\3-assigments\\Program.cs",
               "RelativeToolTip": "3-assigments\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkAAAAWAAAA",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAowLUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T12:16:17.891Z",
               "EditorCaption": ""
@@ -51,8 +47,7 @@
               "RelativeToolTip": "LoopsDemo\\Program.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAgwGYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T10:11:55.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T10:11:55.944Z"
             },
             {
               "$type": "Document",
@@ -64,8 +59,11 @@
               "RelativeToolTip": "ConditionsDemo\\Program.cs",
               "ViewState": "AQIAAGQAAAAAAAAAAAAgwHEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T08:35:48.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T08:35:48.744Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
