@@ -1,0 +1,15 @@
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\bin\Debug\net8.0\4-assignments.exe
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\bin\Debug\net8.0\4-assignments.deps.json
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\bin\Debug\net8.0\4-assignments.runtimeconfig.json
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\bin\Debug\net8.0\4-assignments.dll
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\bin\Debug\net8.0\4-assignments.pdb
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.AssemblyInfoInputs.cache
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.AssemblyInfo.cs
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.sourcelink.json
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.dll
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\refint\4-assignments.dll
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.pdb
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\4-assignments.genruntimeconfig.cache
+D:\progTemp\itucation\ValueVsReferenceDemo\4-assignments\obj\Debug\net8.0\ref\4-assignments.dll

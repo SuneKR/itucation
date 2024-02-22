@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\ValueVsReferenceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D24017-4014-4C33-8394-2E00B089D39C}|4-assignments\\4-assignments.csproj|d:\\progtemp\\itucation\\valuevsreferencedemo\\4-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D24017-4014-4C33-8394-2E00B089D39C}|4-assignments\\4-assignments.csproj|solutionrelative:4-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D08C95-6A7E-4B00-89B4-DCA068FCFC9C}|ValueVsReferenceDemo\\ValueVsReferenceDemo.csproj|d:\\progtemp\\itucation\\valuevsreferencedemo\\valuevsreferencedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D08C95-6A7E-4B00-89B4-DCA068FCFC9C}|ValueVsReferenceDemo\\ValueVsReferenceDemo.csproj|solutionrelative:valuevsreferencedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\ValueVsReferenceDemo\\4-assignments\\Program.cs",
+              "RelativeDocumentMoniker": "4-assignments\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\ValueVsReferenceDemo\\4-assignments\\Program.cs",
+              "RelativeToolTip": "4-assignments\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:48:07.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\ValueVsReferenceDemo\\ValueVsReferenceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ValueVsReferenceDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\ValueVsReferenceDemo\\ValueVsReferenceDemo\\Program.cs",
+              "RelativeToolTip": "ValueVsReferenceDemo\\Program.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAQwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:37:44.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

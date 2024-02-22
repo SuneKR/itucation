@@ -1,0 +1,15 @@
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\bin\Debug\net8.0\ValueVsReferenceDemo.exe
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\bin\Debug\net8.0\ValueVsReferenceDemo.deps.json
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\bin\Debug\net8.0\ValueVsReferenceDemo.runtimeconfig.json
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\bin\Debug\net8.0\ValueVsReferenceDemo.dll
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\bin\Debug\net8.0\ValueVsReferenceDemo.pdb
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.AssemblyInfo.cs
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.sourcelink.json
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.dll
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\refint\ValueVsReferenceDemo.dll
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.pdb
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ValueVsReferenceDemo.genruntimeconfig.cache
+D:\progTemp\itucation\ValueVsReferenceDemo\ValueVsReferenceDemo\obj\Debug\net8.0\ref\ValueVsReferenceDemo.dll
