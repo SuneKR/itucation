@@ -34,6 +34,7 @@
             Random rng = new Random();
             InsertCity("Athens", rng.Next(0,cities_list.Count), cities_list);
             InsertCity("Rome", rng.Next(0, cities_list.Count), cities_list);
+            InsertCity("Mumbai", -1, cities_list);
             InsertCity("Babylon", rng.Next(0, cities_list.Count), cities_list);
             InsertCity("Karachi", rng.Next(0, cities_list.Count), cities_list);
             #endregion
@@ -42,11 +43,19 @@
         #region InsertCity Method
         public static void InsertCity(string city, int index, List<string> citiesList)
         {
-            Console.WriteLine($"Trying to add { city } to index { index } containing { citiesList[index] }");
+            Console.WriteLine($"Trying to add { city } to index { index } containing { PrintProcess(index, citiesList) }");
             if (!citiesList.Contains(null)) { Console.WriteLine($"List is full. { city } entry not accepted"); }
-            else if (index >= citiesList.Count) { InsertCity(city, 0, citiesList); }
+            else if (index >= citiesList.Count || index < 0) { InsertCity(city, 0, citiesList); }
             else if (citiesList[index] == null ) { citiesList[index] = city; Console.WriteLine($"{ city } added to index {index}"); }
             else { InsertCity(city, index+=1, citiesList); }
+        }
+        #endregion
+
+        #region PrintProcess
+        public static string PrintProcess(int index, List<string> citiesList)
+        {
+            if (index >= 0 && index < citiesList.Count) { return citiesList[index]; }
+            return "Out of bounce";
         }
         #endregion
     }
