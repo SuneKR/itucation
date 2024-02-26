@@ -1,0 +1,15 @@
+D:\progTemp\itucation\5-Collections\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.exe
+D:\progTemp\itucation\5-Collections\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.deps.json
+D:\progTemp\itucation\5-Collections\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.runtimeconfig.json
+D:\progTemp\itucation\5-Collections\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.dll
+D:\progTemp\itucation\5-Collections\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.pdb
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfo.cs
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.sourcelink.json
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.dll
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\refint\CollectionsDemo.dll
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
+D:\progTemp\itucation\5-Collections\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll
