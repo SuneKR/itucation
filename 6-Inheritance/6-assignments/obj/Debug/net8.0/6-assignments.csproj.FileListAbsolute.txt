@@ -1,0 +1,15 @@
+D:\progTemp\itucation\6-Inheritance\6-assignments\bin\Debug\net8.0\6-assignments.exe
+D:\progTemp\itucation\6-Inheritance\6-assignments\bin\Debug\net8.0\6-assignments.deps.json
+D:\progTemp\itucation\6-Inheritance\6-assignments\bin\Debug\net8.0\6-assignments.runtimeconfig.json
+D:\progTemp\itucation\6-Inheritance\6-assignments\bin\Debug\net8.0\6-assignments.dll
+D:\progTemp\itucation\6-Inheritance\6-assignments\bin\Debug\net8.0\6-assignments.pdb
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.AssemblyInfoInputs.cache
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.AssemblyInfo.cs
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.sourcelink.json
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.dll
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\refint\6-assignments.dll
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.pdb
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\6-assignments.genruntimeconfig.cache
+D:\progTemp\itucation\6-Inheritance\6-assignments\obj\Debug\net8.0\ref\6-assignments.dll

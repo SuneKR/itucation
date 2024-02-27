@@ -1,0 +1,15 @@
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\bin\Debug\net8.0\AbstractionDemo.exe
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\bin\Debug\net8.0\AbstractionDemo.deps.json
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\bin\Debug\net8.0\AbstractionDemo.runtimeconfig.json
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\bin\Debug\net8.0\AbstractionDemo.dll
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\bin\Debug\net8.0\AbstractionDemo.pdb
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.AssemblyInfo.cs
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.sourcelink.json
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.dll
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\refint\AbstractionDemo.dll
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.pdb
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\AbstractionDemo.genruntimeconfig.cache
+D:\progTemp\itucation\7-Abstraction\AbstractionDemo\obj\Debug\net8.0\ref\AbstractionDemo.dll

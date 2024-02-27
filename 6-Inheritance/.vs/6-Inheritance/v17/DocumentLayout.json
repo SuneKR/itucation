@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\6-Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCC4852-95BE-4B40-827E-0CA68FC59D0A}|6-assignments\\6-assignments.csproj|d:\\progtemp\\itucation\\6-inheritance\\6-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCC4852-95BE-4B40-827E-0CA68FC59D0A}|6-assignments\\6-assignments.csproj|solutionrelative:6-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FA5EA5-EAC5-43C4-8104-D6F6CD7AD1F4}|InheritanceDemo\\InheritanceDemo.csproj|d:\\progtemp\\itucation\\6-inheritance\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FA5EA5-EAC5-43C4-8104-D6F6CD7AD1F4}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCC4852-95BE-4B40-827E-0CA68FC59D0A}|6-assignments\\6-assignments.csproj|d:\\progtemp\\itucation\\6-inheritance\\6-assignments\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCC4852-95BE-4B40-827E-0CA68FC59D0A}|6-assignments\\6-assignments.csproj|solutionrelative:6-assignments\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D443C54-E38A-49BA-B5F7-D419B73FAD76}|ConstructorChaining\\ConstructorChaining.csproj|d:\\progtemp\\itucation\\6-inheritance\\constructorchaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D443C54-E38A-49BA-B5F7-D419B73FAD76}|ConstructorChaining\\ConstructorChaining.csproj|solutionrelative:constructorchaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FA5EA5-EAC5-43C4-8104-D6F6CD7AD1F4}|InheritanceDemo\\InheritanceDemo.csproj|d:\\progtemp\\itucation\\6-inheritance\\inheritancedemo\\far2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FA5EA5-EAC5-43C4-8104-D6F6CD7AD1F4}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\far2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\6-Inheritance\\6-assignments\\Employee.cs",
+              "RelativeDocumentMoniker": "6-assignments\\Employee.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\6-Inheritance\\6-assignments\\Employee.cs",
+              "RelativeToolTip": "6-assignments\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:14:16.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\6-Inheritance\\ConstructorChaining\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorChaining\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\6-Inheritance\\ConstructorChaining\\Program.cs",
+              "RelativeToolTip": "ConstructorChaining\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:20:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\6-Inheritance\\6-assignments\\Program.cs",
+              "RelativeDocumentMoniker": "6-assignments\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\6-Inheritance\\6-assignments\\Program.cs",
+              "RelativeToolTip": "6-assignments\\Program.cs",
+              "ViewState": "AQIAAAMAAACAMjMzM7MhwHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:59:34.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Far2.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\6-Inheritance\\InheritanceDemo\\Far2.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\Far2.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\6-Inheritance\\InheritanceDemo\\Far2.cs",
+              "RelativeToolTip": "InheritanceDemo\\Far2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:15:17.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\6-Inheritance\\InheritanceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\6-Inheritance\\InheritanceDemo\\Program.cs",
+              "RelativeToolTip": "InheritanceDemo\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:07:59.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

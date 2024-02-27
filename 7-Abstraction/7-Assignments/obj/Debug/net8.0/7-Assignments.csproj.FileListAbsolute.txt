@@ -1,0 +1,15 @@
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.AssemblyInfoInputs.cache
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.AssemblyInfo.cs
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.sourcelink.json
+D:\progTemp\itucation\7-Abstraction\7-Assignments\bin\Debug\net8.0\7-Assignments.exe
+D:\progTemp\itucation\7-Abstraction\7-Assignments\bin\Debug\net8.0\7-Assignments.deps.json
+D:\progTemp\itucation\7-Abstraction\7-Assignments\bin\Debug\net8.0\7-Assignments.runtimeconfig.json
+D:\progTemp\itucation\7-Abstraction\7-Assignments\bin\Debug\net8.0\7-Assignments.dll
+D:\progTemp\itucation\7-Abstraction\7-Assignments\bin\Debug\net8.0\7-Assignments.pdb
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.dll
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\refint\7-Assignments.dll
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.pdb
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\7-Assignments.genruntimeconfig.cache
+D:\progTemp\itucation\7-Abstraction\7-Assignments\obj\Debug\net8.0\ref\7-Assignments.dll

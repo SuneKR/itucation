@@ -1,0 +1,15 @@
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\bin\Debug\net8.0\EmuPassTryDemo.exe
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\bin\Debug\net8.0\EmuPassTryDemo.deps.json
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\bin\Debug\net8.0\EmuPassTryDemo.runtimeconfig.json
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\bin\Debug\net8.0\EmuPassTryDemo.dll
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\bin\Debug\net8.0\EmuPassTryDemo.pdb
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.AssemblyInfo.cs
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.sourcelink.json
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.dll
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\refint\EmuPassTryDemo.dll
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.pdb
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\EmuPassTryDemo.genruntimeconfig.cache
+D:\progTemp\itucation\7-Abstraction\EmuPassTryDemo\obj\Debug\net8.0\ref\EmuPassTryDemo.dll

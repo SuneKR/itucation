@@ -1,0 +1,15 @@
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.sourcelink.json
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+D:\progTemp\itucation\6-Inheritance\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

@@ -20,7 +20,7 @@ namespace _5_Assignments
 
             Console.WriteLine("Excerice 1A: Friendslist");
 
-            List<string> rpgGroup = new List<string>() { "Martin", "Bo", "Stiig", "Jeppe", "Mikkel", "Lasse", "Kenneth", "Mette", "Christian" };
+            List<string> rpgGroup = new List<string>() { "Martin", "Bo", "Stiig", "Jeppe", "Mikkel", "Thomas", "Kenneth", "Lasse", "Mette", "Christian" };
             foreach(string friend in rpgGroup) { Console.WriteLine(friend); }
 
             Console.WriteLine("\nExcerice 1B: RPG systems");
@@ -76,7 +76,7 @@ namespace _5_Assignments
 
             foreach (string guest in dinnerGuests)
             {
-                if (dinnerGuests.IndexOf(guest) < 3) { Console.WriteLine($"Dear { guest } you are cordially invited to dinnerparty!"); }
+                if (dinnerGuests.IndexOf(guest) < 3) { Console.WriteLine($"Dear { guest } you are still cordially invited to dinnerparty!"); }
                 else { Console.WriteLine($"Dear { guest } due to an unforseen table happenstance, you are cordially uninvited to dinnerparty"); }
                 
             }
@@ -179,12 +179,10 @@ namespace _5_Assignments
             #endregion
 
             #region Staging area
-            Exercise1();
-            Exercise2();
+            //Exercise1();
+            //Exercise2();
             Exercise3();
             #endregion
-
-
         }
     }
 }
