@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\8-DelegatesThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF91184A-CD3F-49F8-A57B-C6D802D5CEA3}|8-Assignment\\8-Assignment.csproj|d:\\progtemp\\itucation\\8-delegatesthreading\\8-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF91184A-CD3F-49F8-A57B-C6D802D5CEA3}|8-Assignment\\8-Assignment.csproj|solutionrelative:8-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A33C7-72A5-4864-8A73-867AFE22D9F8}|ThreadingDemo\\ThreadingDemo.csproj|d:\\progtemp\\itucation\\8-delegatesthreading\\threadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1A33C7-72A5-4864-8A73-867AFE22D9F8}|ThreadingDemo\\ThreadingDemo.csproj|solutionrelative:threadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B640E062-42A7-4382-A0D1-DBF6D8E0641C}|DelegatesDemo\\DelegatesDemo.csproj|d:\\progtemp\\itucation\\8-delegatesthreading\\delegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B640E062-42A7-4382-A0D1-DBF6D8E0641C}|DelegatesDemo\\DelegatesDemo.csproj|solutionrelative:delegatesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B640E062-42A7-4382-A0D1-DBF6D8E0641C}|DelegatesDemo\\DelegatesDemo.csproj|d:\\progtemp\\itucation\\8-delegatesthreading\\delegatesdemo\\medarbejder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B640E062-42A7-4382-A0D1-DBF6D8E0641C}|DelegatesDemo\\DelegatesDemo.csproj|solutionrelative:delegatesdemo\\medarbejder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\8-DelegatesThreading\\8-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "8-Assignment\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\8-DelegatesThreading\\8-Assignment\\Program.cs",
+              "RelativeToolTip": "8-Assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:08:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\8-DelegatesThreading\\ThreadingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\8-DelegatesThreading\\ThreadingDemo\\Program.cs",
+              "RelativeToolTip": "ThreadingDemo\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:28:27.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medarbejder.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\8-DelegatesThreading\\DelegatesDemo\\Medarbejder.cs",
+              "RelativeDocumentMoniker": "DelegatesDemo\\Medarbejder.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\8-DelegatesThreading\\DelegatesDemo\\Medarbejder.cs",
+              "RelativeToolTip": "DelegatesDemo\\Medarbejder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:40:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\8-DelegatesThreading\\DelegatesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\8-DelegatesThreading\\DelegatesDemo\\Program.cs",
+              "RelativeToolTip": "DelegatesDemo\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:42:18.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

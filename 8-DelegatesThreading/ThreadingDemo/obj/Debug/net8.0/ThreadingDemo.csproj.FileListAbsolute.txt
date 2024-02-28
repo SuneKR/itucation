@@ -1,0 +1,15 @@
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.exe
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.deps.json
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.runtimeconfig.json
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.dll
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.pdb
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.AssemblyInfo.cs
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.sourcelink.json
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.dll
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\refint\ThreadingDemo.dll
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.pdb
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.genruntimeconfig.cache
+D:\progTemp\itucation\8-DelegatesThreading\ThreadingDemo\obj\Debug\net8.0\ref\ThreadingDemo.dll
