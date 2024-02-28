@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _7_Assignments
+namespace _7_Assignments.Accounts
 {
-    abstract class BankAccount
+    internal class SavingsAccount : BankAccount
     {
         #region Relevant Assignment Description
         /*
@@ -28,10 +28,25 @@ namespace _7_Assignments
         */
         #endregion
 
-        protected double Balance = 0;
+        public override void CheckBalance()
+        {
+            Console.WriteLine($"Current balance: {Balance} DKK");
+        }
 
-        public abstract void CheckBalance();
-        public abstract void Deposit(double deposite);
-        public abstract void Withdraw(double withdrawal);
+        public override void Deposit(double deposite)
+        {
+            CheckBalance();
+            Console.Write($"Apply an .1% interest and depositing {deposite}. ");
+            Balance = Balance * 1.001 + deposite;
+            CheckBalance();
+        }
+
+        public override void Withdraw(double withdrawal)
+        {
+            CheckBalance();
+            Console.Write($"Withdrawing {withdrawal}. ");
+            Balance -= withdrawal;
+            CheckBalance();
+        }
     }
 }

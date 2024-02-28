@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\progTemp\\itucation\\7-Abstraction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\accounts\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\accounts\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\accounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\lasers\\deathstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\lasers\\deathstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\lasers\\ilaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\lasers\\ilaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\accounts\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\accounts\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\7-assignments.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\7-assignments.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{330533AD-E0F7-4B79-8B60-60BC19D4C329}|AbstractionDemo\\AbstractionDemo.csproj|d:\\progtemp\\itucation\\7-abstraction\\abstractiondemo\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{330533AD-E0F7-4B79-8B60-60BC19D4C329}|AbstractionDemo\\AbstractionDemo.csproj|solutionrelative:abstractiondemo\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +39,12 @@
       "RelativeMoniker": "D:0:0:{330533AD-E0F7-4B79-8B60-60BC19D4C329}|AbstractionDemo\\AbstractionDemo.csproj|solutionrelative:abstractiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFBCB4B8-1F88-4C2D-ABA3-62F1F09F54C5}|EmuPassTryDemo\\EmuPassTryDemo.csproj|d:\\progtemp\\itucation\\7-abstraction\\emupasstrydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFBCB4B8-1F88-4C2D-ABA3-62F1F09F54C5}|EmuPassTryDemo\\EmuPassTryDemo.csproj|solutionrelative:emupasstrydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\deathstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\deathstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\ilaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\ilaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6FCD747-8155-4473-B8AC-6497BB912171}|InterfaceDemo\\InterfaceDemo.csproj|d:\\progtemp\\itucation\\7-abstraction\\interfacedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6FCD747-8155-4473-B8AC-6497BB912171}|InterfaceDemo\\InterfaceDemo.csproj|solutionrelative:interfacedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|d:\\progtemp\\itucation\\7-abstraction\\7-assignments\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9718A138-5CC4-4A42-9978-F14919C3D030}|7-Assignments\\7-Assignments.csproj|solutionrelative:7-assignments\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6FCD747-8155-4473-B8AC-6497BB912171}|InterfaceDemo\\InterfaceDemo.csproj|d:\\progtemp\\itucation\\7-abstraction\\interfacedemo\\barn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,34 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeathStar.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\DeathStar.cs",
-              "RelativeDocumentMoniker": "7-Assignments\\DeathStar.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\DeathStar.cs",
-              "RelativeToolTip": "7-Assignments\\DeathStar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:54:27.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILaser.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\ILaser.cs",
-              "RelativeDocumentMoniker": "7-Assignments\\ILaser.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\ILaser.cs",
-              "RelativeToolTip": "7-Assignments\\ILaser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:50:39.18Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -106,70 +84,27 @@
               "RelativeDocumentMoniker": "7-Assignments\\Program.cs",
               "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Program.cs",
               "RelativeToolTip": "7-Assignments\\Program.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAswKIAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T12:14:56.148Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SavingsAccount.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\SavingsAccount.cs",
-              "RelativeDocumentMoniker": "7-Assignments\\SavingsAccount.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\SavingsAccount.cs",
-              "RelativeToolTip": "7-Assignments\\SavingsAccount.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwC0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:38:36.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CheckingAccount.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\CheckingAccount.cs",
-              "RelativeDocumentMoniker": "7-Assignments\\CheckingAccount.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\CheckingAccount.cs",
-              "RelativeToolTip": "7-Assignments\\CheckingAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:28:50.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "BankAccount.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\BankAccount.cs",
-              "RelativeDocumentMoniker": "7-Assignments\\BankAccount.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\BankAccount.cs",
-              "RelativeToolTip": "7-Assignments\\BankAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA1AAAA",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Accounts\\BankAccount.cs",
+              "RelativeDocumentMoniker": "7-Assignments\\Accounts\\BankAccount.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Accounts\\BankAccount.cs",
+              "RelativeToolTip": "7-Assignments\\Accounts\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T12:20:37.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\EmuPassTryDemo\\Program.cs",
-              "RelativeDocumentMoniker": "EmuPassTryDemo\\Program.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\EmuPassTryDemo\\Program.cs",
-              "RelativeToolTip": "EmuPassTryDemo\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwAoAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T11:28:06.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Barn.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\InterfaceDemo\\Barn.cs",
               "RelativeDocumentMoniker": "InterfaceDemo\\Barn.cs",
@@ -177,12 +112,11 @@
               "RelativeToolTip": "InterfaceDemo\\Barn.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:11:40.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:11:40.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IMor.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\InterfaceDemo\\IMor.cs",
               "RelativeDocumentMoniker": "InterfaceDemo\\IMor.cs",
@@ -190,12 +124,11 @@
               "RelativeToolTip": "InterfaceDemo\\IMor.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAswAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:10:40.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:10:40.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Far.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\InterfaceDemo\\Far.cs",
               "RelativeDocumentMoniker": "InterfaceDemo\\Far.cs",
@@ -203,12 +136,11 @@
               "RelativeToolTip": "InterfaceDemo\\Far.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:09:51.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T10:09:51.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\InterfaceDemo\\Program.cs",
               "RelativeDocumentMoniker": "InterfaceDemo\\Program.cs",
@@ -216,25 +148,11 @@
               "RelativeToolTip": "InterfaceDemo\\Program.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAkwC4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:41:54.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T09:41:54.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PartTimeEmployee.cs",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\PartTimeEmployee.cs",
-              "RelativeDocumentMoniker": "AbstractionDemo\\PartTimeEmployee.cs",
-              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\PartTimeEmployee.cs",
-              "RelativeToolTip": "AbstractionDemo\\PartTimeEmployee.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:22:31.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "FullTimeEmployee.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\FullTimeEmployee.cs",
               "RelativeDocumentMoniker": "AbstractionDemo\\FullTimeEmployee.cs",
@@ -247,7 +165,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "ILaser.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Lasers\\ILaser.cs",
+              "RelativeDocumentMoniker": "7-Assignments\\Lasers\\ILaser.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Lasers\\ILaser.cs",
+              "RelativeToolTip": "7-Assignments\\Lasers\\ILaser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:50:39.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeathStar.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Lasers\\DeathStar.cs",
+              "RelativeDocumentMoniker": "7-Assignments\\Lasers\\DeathStar.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Lasers\\DeathStar.cs",
+              "RelativeToolTip": "7-Assignments\\Lasers\\DeathStar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:54:27.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Accounts\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "7-Assignments\\Accounts\\SavingsAccount.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Accounts\\SavingsAccount.cs",
+              "RelativeToolTip": "7-Assignments\\Accounts\\SavingsAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:38:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "7-Assignments",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\7-Assignments.csproj",
+              "RelativeDocumentMoniker": "7-Assignments\\7-Assignments.csproj",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\7-Assignments.csproj",
+              "RelativeToolTip": "7-Assignments\\7-Assignments.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T07:39:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\EmuPassTryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EmuPassTryDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\EmuPassTryDemo\\Program.cs",
+              "RelativeToolTip": "EmuPassTryDemo\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:28:06.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Accounts\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "7-Assignments\\Accounts\\CheckingAccount.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\7-Assignments\\Accounts\\CheckingAccount.cs",
+              "RelativeToolTip": "7-Assignments\\Accounts\\CheckingAccount.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:28:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "AbstractionDemo\\PartTimeEmployee.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\PartTimeEmployee.cs",
+              "RelativeToolTip": "AbstractionDemo\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:22:31.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\Employee.cs",
               "RelativeDocumentMoniker": "AbstractionDemo\\Employee.cs",
@@ -255,12 +266,11 @@
               "RelativeToolTip": "AbstractionDemo\\Employee.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAkwBoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T08:45:28.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T08:45:28.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\7-Abstraction\\AbstractionDemo\\Program.cs",
               "RelativeDocumentMoniker": "AbstractionDemo\\Program.cs",
@@ -268,8 +278,7 @@
               "RelativeToolTip": "AbstractionDemo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwAgAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T08:43:09.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T08:43:09.4Z"
             }
           ]
         }

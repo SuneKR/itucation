@@ -1,4 +1,6 @@
 ﻿using System.Security.AccessControl;
+using _7_Assignments.Accounts;
+using _7_Assignments.Lasers;
 
 namespace _7_Assignments
 {
@@ -106,7 +108,7 @@ namespace _7_Assignments
 
             Console.WriteLine("Pick a card");
             Random rng = new Random();
-            Console.WriteLine($"You picked the { (Face)rng.Next(0, 13) } of { (Suit)rng.Next(0, 4) }");
+            Console.WriteLine($"You picked the { (Face)rng.Next(0, Enum.GetValues(typeof(Face)).Length) } of { (Suit)rng.Next(0, Enum.GetValues(typeof(Suit)).Length) }");
 
         }
         #endregion

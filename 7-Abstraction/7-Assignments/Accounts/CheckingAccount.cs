@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _7_Assignments
+namespace _7_Assignments.Accounts
 {
     internal class CheckingAccount : BankAccount
     {
@@ -30,13 +30,13 @@ namespace _7_Assignments
 
         public override void CheckBalance()
         {
-            Console.WriteLine($"Current balance: { Balance } DKK");
+            Console.WriteLine($"Current balance: {Balance} DKK");
         }
 
         public override void Deposit(double deposite)
         {
             CheckBalance();
-            Console.Write($"Depositing { deposite }. ");
+            Console.Write($"Depositing {deposite}. ");
             Balance += deposite;
             CheckBalance();
         }
@@ -47,12 +47,12 @@ namespace _7_Assignments
             int withdrawLimit = 3000;
             if (withdrawal < withdrawLimit)
             {
-                Console.Write($"Withdrawing { withdrawal }. ");
+                Console.Write($"Withdrawing {withdrawal}. ");
                 Balance -= withdrawal;
             }
             else
             {
-                Console.WriteLine($"{ withdrawal } is above the withdrawal limit of { withdrawLimit }. Nothing withdrawn.");
+                Console.WriteLine($"{withdrawal} is above the withdrawal limit of {withdrawLimit}. Nothing withdrawn.");
             }
             CheckBalance();
         }
