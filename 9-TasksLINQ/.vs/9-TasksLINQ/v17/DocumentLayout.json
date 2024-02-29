@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{346DD3CC-BF83-473F-9377-9F03F173AB1A}|9-Assignments\\9-Assignments.csproj|solutionrelative:9-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3223D36-89ED-4C42-92B0-F7CDF20B12A8}|LINQdemo\\LINQdemo.csproj|d:\\progtemp\\itucation\\9-taskslinq\\linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3223D36-89ED-4C42-92B0-F7CDF20B12A8}|LINQdemo\\LINQdemo.csproj|solutionrelative:linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0F855CE-D4E1-4AAB-A51D-56A56671C1C0}|TasksDemo\\TasksDemo.csproj|d:\\progtemp\\itucation\\9-taskslinq\\tasksdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F855CE-D4E1-4AAB-A51D-56A56671C1C0}|TasksDemo\\TasksDemo.csproj|solutionrelative:tasksdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0F855CE-D4E1-4AAB-A51D-56A56671C1C0}|TasksDemo\\TasksDemo.csproj|d:\\progtemp\\itucation\\9-taskslinq\\tasksdemo\\taskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F855CE-D4E1-4AAB-A51D-56A56671C1C0}|TasksDemo\\TasksDemo.csproj|solutionrelative:tasksdemo\\taskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3223D36-89ED-4C42-92B0-F7CDF20B12A8}|LINQdemo\\LINQdemo.csproj|d:\\progtemp\\itucation\\9-taskslinq\\linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3223D36-89ED-4C42-92B0-F7CDF20B12A8}|LINQdemo\\LINQdemo.csproj|solutionrelative:linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "9-Assignments\\Program.cs",
               "ToolTip": "D:\\progTemp\\itucation\\9-TasksLINQ\\9-Assignments\\Program.cs",
               "RelativeToolTip": "9-Assignments\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:03:23.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\9-TasksLINQ\\LINQdemo\\Program.cs",
               "RelativeDocumentMoniker": "LINQdemo\\Program.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TaskHandler.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\9-TasksLINQ\\TasksDemo\\TaskHandler.cs",
               "RelativeDocumentMoniker": "TasksDemo\\TaskHandler.cs",
@@ -68,12 +68,11 @@
               "RelativeToolTip": "TasksDemo\\TaskHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:30:18.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T10:30:18.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\9-TasksLINQ\\TasksDemo\\Program.cs",
               "RelativeDocumentMoniker": "TasksDemo\\Program.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "TasksDemo\\Program.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAHAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T09:16:08.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T09:16:08.16Z"
             }
           ]
         }

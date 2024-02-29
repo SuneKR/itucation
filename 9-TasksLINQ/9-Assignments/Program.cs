@@ -33,7 +33,7 @@ namespace _9_Assignments
 
             XElement moviesXML = XElement.Load("movies.xml");
 
-            var moviesQuery = from movies in moviesXML.Descendants("Movie") select movies;
+            var moviesQuery = from movies in moviesXML.Descendants("Movie").AsParallel() select movies;
 
             Console.WriteLine("\nExercise 1B");
             foreach ( var movie in moviesQuery ) { Console.WriteLine(movie); }
@@ -41,7 +41,7 @@ namespace _9_Assignments
             Console.WriteLine("\nExercise 1C");
             foreach (var movie in moviesQuery)
             {
-                var castQuery = from actors in movie.Descendants("Actor") select actors;
+                var castQuery = from actors in movie.Descendants("Actor").AsParallel() select actors;
                 List<string> castList = new List<string>();
                 foreach ( var cast in castQuery ) { castList.Add(cast.Value); }
                 Console.WriteLine($"\n{ movie.Element("Title").Value } by { movie.Element("Director").Value }");
@@ -157,7 +157,7 @@ namespace _9_Assignments
 
             #region Stagging Area
             Exercise1();
-            Exercise2();
+            //Exercise2();
             #endregion
 
             Console.ReadLine();
