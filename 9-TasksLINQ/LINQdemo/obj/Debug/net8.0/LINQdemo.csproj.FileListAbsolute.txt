@@ -1,0 +1,16 @@
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\bin\Debug\net8.0\LINQdemo.exe
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\bin\Debug\net8.0\LINQdemo.deps.json
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\bin\Debug\net8.0\LINQdemo.runtimeconfig.json
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\bin\Debug\net8.0\LINQdemo.dll
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\bin\Debug\net8.0\LINQdemo.pdb
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.AssemblyInfo.cs
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.sourcelink.json
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.dll
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\refint\LINQdemo.dll
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.pdb
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\LINQdemo.genruntimeconfig.cache
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\obj\Debug\net8.0\ref\LINQdemo.dll
+D:\progTemp\itucation\9-TasksLINQ\LINQdemo\bin\Debug\net8.0\employees.xml

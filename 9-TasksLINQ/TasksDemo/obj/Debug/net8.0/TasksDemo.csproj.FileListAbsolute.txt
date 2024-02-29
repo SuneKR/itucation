@@ -1,0 +1,15 @@
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\bin\Debug\net8.0\TasksDemo.exe
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\bin\Debug\net8.0\TasksDemo.deps.json
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\bin\Debug\net8.0\TasksDemo.runtimeconfig.json
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\bin\Debug\net8.0\TasksDemo.dll
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\bin\Debug\net8.0\TasksDemo.pdb
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.AssemblyInfoInputs.cache
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.AssemblyInfo.cs
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.sourcelink.json
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.dll
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\refint\TasksDemo.dll
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.pdb
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\TasksDemo.genruntimeconfig.cache
+D:\progTemp\itucation\9-TasksLINQ\TasksDemo\obj\Debug\net8.0\ref\TasksDemo.dll

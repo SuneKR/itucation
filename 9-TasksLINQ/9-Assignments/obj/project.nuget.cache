@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGudfFOyv0KNyZJ1tZ41suF317W7Cm8n0hcEQCIkmOtYuLYEIeGetqCJ2TBHtCuMJNX8NbSJowVfSZUr5ESDsA==",
+  "success": true,
+  "projectFilePath": "D:\\progTemp\\itucation\\9-TasksLINQ\\9-Assignments\\9-Assignments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mail\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
