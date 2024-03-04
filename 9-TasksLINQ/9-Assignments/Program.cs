@@ -157,7 +157,7 @@ namespace _9_Assignments
 
             #region Stagging Area
             Exercise1();
-            //Exercise2();
+            Exercise2();
             #endregion
 
             Console.ReadLine();

@@ -1,0 +1,48 @@
+﻿body {
+    background-color: lightyellow;
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+p {
+    font-family: garamond;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.navbar {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#wfrplogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+#navTitle {
+    color: red;
+    font-family: Papyrus, 'Copperplate Gothic',Fantasy;
+    text-shadow: 5px 5px 15px yellow;
+}
