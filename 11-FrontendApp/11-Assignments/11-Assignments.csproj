@@ -64,6 +64,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Altdorf\Altdorf1e.html" />
+    <Content Include="Altdorf\Altdorf4e.html" />
+    <Content Include="Altdorf\Altdorf4eColor.html" />
     <Content Include="Bogenhafen\BogenhafenCity4e.html" />
     <Content Include="Bogenhafen\BogenhafenSewers.html" />
     <Content Include="Bogenhafen\BogenhafenCity1e.html" />
@@ -85,6 +88,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="index.html" />
     <Content Include="Middenheim\Middenheim1e.html" />
+    <Content Include="Middenheim\Middenheim1eColor.html" />
     <Content Include="Middenheim\Middenheim4e.html" />
     <Content Include="Navigationsbar\navigationBar.html" />
     <Content Include="Bogenhafen\BogenhafenCity.html" />

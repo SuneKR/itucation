@@ -20,6 +20,12 @@ p {
     padding-right: 5%;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
 .navbar {
     margin-left: 5%;
     margin-right: 5%;
@@ -28,10 +34,22 @@ p {
     border-radius: 50px;
 }
 
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center
+.textcontainer {
+    background-color: white;
+    min-height: 100px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    padding-top: 1%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#navTitle {
+    color: red;
+    font-family: Papyrus, 'Copperplate Gothic',Fantasy;
+    text-shadow: 5px 5px 15px yellow;
 }
 
 #wfrplogo {
@@ -39,10 +57,4 @@ p {
     justify-content: center;
     align-items: center;
     height: 100px;
-}
-
-#navTitle {
-    color: red;
-    font-family: Papyrus, 'Copperplate Gothic',Fantasy;
-    text-shadow: 5px 5px 15px yellow;
 }

@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "D:\\progTemp\\itucation\\11-FrontendApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\altdorf\\altdorf4ecolor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\altdorf\\altdorf4ecolor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\altdorf\\altdorf4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\altdorf\\altdorf4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\altdorf\\altdorf1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\altdorf\\altdorf1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\bogenhafen\\bogenhafensewers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafensewers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\bogenhafen\\bogenhafencity4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafencity4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\bogenhafen\\bogenhafencity.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafencity.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\bogenhafen\\bogenhafencity1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafencity1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\middenheim\\middenheim4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\middenheim\\middenheim4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\middenheim\\middenheim1ecolor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\middenheim\\middenheim1ecolor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\navigationsbar\\navigationbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\navigationsbar\\navigationbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\middenheim\\middenheim1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\middenheim\\middenheim1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\navigationsbar\\navigationbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\navigationsbar\\navigationbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\navigationsbar\\navigationbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|D:\\progTemp\\itucation\\11-FrontendApp\\11-assignments\\navigationsbar\\navigationbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\navigationsbar\\navigationbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\bogenhafen\\bogenhafencity1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafencity1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\bogenhafen\\bogenhafencity4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafencity4e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\bogenhafen\\bogenhafencity.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafencity.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\bogenhafen\\bogenhafensewers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\bogenhafen\\bogenhafensewers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|d:\\progtemp\\itucation\\11-frontendapp\\11-assignments\\middenheim\\middenheim1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84935E28-9F08-4C1D-ABF9-B544E033A29D}|11-Assignments\\11-Assignments.csproj|solutionrelative:11-assignments\\middenheim\\middenheim1e.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,32 +66,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "BogenhafenSewers.html",
               "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenSewers.html",
               "RelativeDocumentMoniker": "11-Assignments\\Bogenhafen\\BogenhafenSewers.html",
               "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenSewers.html",
               "RelativeToolTip": "11-Assignments\\Bogenhafen\\BogenhafenSewers.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T18:26:57.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BogenhafenCity.html",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity.html",
-              "RelativeDocumentMoniker": "11-Assignments\\Bogenhafen\\BogenhafenCity.html",
-              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity.html",
-              "RelativeToolTip": "11-Assignments\\Bogenhafen\\BogenhafenCity.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "DocumentIndex": 8,
+              "Title": "Middenheim4e.html",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Middenheim\\Middenheim4e.html",
+              "RelativeDocumentMoniker": "11-Assignments\\Middenheim\\Middenheim4e.html",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Middenheim\\Middenheim4e.html",
+              "RelativeToolTip": "11-Assignments\\Middenheim\\Middenheim4e.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-04T18:26:55.15Z",
+              "WhenOpened": "2024-03-05T21:07:39.454Z",
               "EditorCaption": ""
             },
             {
@@ -82,33 +102,20 @@
               "RelativeDocumentMoniker": "11-Assignments\\Bogenhafen\\BogenhafenCity4e.html",
               "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity4e.html",
               "RelativeToolTip": "11-Assignments\\Bogenhafen\\BogenhafenCity4e.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T18:17:32.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "styles.css",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\styles.css",
-              "RelativeDocumentMoniker": "11-Assignments\\styles.css",
-              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\styles.css",
-              "RelativeToolTip": "11-Assignments\\styles.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-04T18:19:20.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BogenhafenCity1e.html",
               "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity1e.html",
               "RelativeDocumentMoniker": "11-Assignments\\Bogenhafen\\BogenhafenCity1e.html",
               "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity1e.html",
               "RelativeToolTip": "11-Assignments\\Bogenhafen\\BogenhafenCity1e.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T18:13:55.67Z",
               "EditorCaption": ""
@@ -116,53 +123,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "navigationBar.js",
-              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Navigationsbar\\navigationBar.js",
-              "RelativeDocumentMoniker": "11-Assignments\\Navigationsbar\\navigationBar.js",
-              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Navigationsbar\\navigationBar.js",
-              "RelativeToolTip": "11-Assignments\\Navigationsbar\\navigationBar.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-04T17:12:49.349Z",
+              "Title": "Altdorf1e.html",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Altdorf\\Altdorf1e.html",
+              "RelativeDocumentMoniker": "11-Assignments\\Altdorf\\Altdorf1e.html",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Altdorf\\Altdorf1e.html",
+              "RelativeToolTip": "11-Assignments\\Altdorf\\Altdorf1e.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T21:05:34.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Altdorf4e.html",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Altdorf\\Altdorf4e.html",
+              "RelativeDocumentMoniker": "11-Assignments\\Altdorf\\Altdorf4e.html",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Altdorf\\Altdorf4e.html",
+              "RelativeToolTip": "11-Assignments\\Altdorf\\Altdorf4e.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T21:06:46.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Altdorf4eColor.html",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Altdorf\\Altdorf4eColor.html",
+              "RelativeDocumentMoniker": "11-Assignments\\Altdorf\\Altdorf4eColor.html",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Altdorf\\Altdorf4eColor.html",
+              "RelativeToolTip": "11-Assignments\\Altdorf\\Altdorf4eColor.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T22:24:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\index.html",
               "RelativeDocumentMoniker": "11-Assignments\\index.html",
               "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\index.html",
               "RelativeToolTip": "11-Assignments\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T12:41:04.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "BogenhafenCity.html",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity.html",
+              "RelativeDocumentMoniker": "11-Assignments\\Bogenhafen\\BogenhafenCity.html",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Bogenhafen\\BogenhafenCity.html",
+              "RelativeToolTip": "11-Assignments\\Bogenhafen\\BogenhafenCity.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-04T18:26:55.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Middenheim1eColor.html",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Middenheim\\Middenheim1eColor.html",
+              "RelativeDocumentMoniker": "11-Assignments\\Middenheim\\Middenheim1eColor.html",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Middenheim\\Middenheim1eColor.html",
+              "RelativeToolTip": "11-Assignments\\Middenheim\\Middenheim1eColor.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T22:12:14.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "navigationBar.html",
               "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Navigationsbar\\navigationBar.html",
               "RelativeDocumentMoniker": "11-Assignments\\Navigationsbar\\navigationBar.html",
               "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Navigationsbar\\navigationBar.html",
               "RelativeToolTip": "11-Assignments\\Navigationsbar\\navigationBar.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T18:32:24.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Middenheim1e.html",
               "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Middenheim\\Middenheim1e.html",
               "RelativeDocumentMoniker": "11-Assignments\\Middenheim\\Middenheim1e.html",
               "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Middenheim\\Middenheim1e.html",
               "RelativeToolTip": "11-Assignments\\Middenheim\\Middenheim1e.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T18:26:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\styles.css",
+              "RelativeDocumentMoniker": "11-Assignments\\styles.css",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\styles.css",
+              "RelativeToolTip": "11-Assignments\\styles.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-04T18:19:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "navigationBar.js",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Navigationsbar\\navigationBar.js",
+              "RelativeDocumentMoniker": "11-Assignments\\Navigationsbar\\navigationBar.js",
+              "ToolTip": "D:\\progTemp\\itucation\\11-FrontendApp\\11-Assignments\\Navigationsbar\\navigationBar.js",
+              "RelativeToolTip": "11-Assignments\\Navigationsbar\\navigationBar.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-04T17:12:49.349Z",
               "EditorCaption": ""
             }
           ]
