@@ -3,99 +3,99 @@
   "WorkspaceRootPath": "D:\\progTemp\\itucation\\14-MVC-Controller\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\views\\photo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\views\\photo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\views\\photo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\views\\photo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\views\\photo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\views\\photo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\views\\photo\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\views\\photo\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\models\\photosharingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\models\\photosharingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\models\\photosharingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\models\\photosharinginitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\models\\photosharinginitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\models\\photosharinginitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\models\\albumsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\models\\albumsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\models\\albumsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\controllers\\valuereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\controllers\\valuereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\controllers\\valuereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\views\\photo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\views\\photo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\views\\photo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\photosharingapplication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\photosharingapplication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB4EF413-E118-47D7-A724-DBB83A876972}|PhotoSharingApplication\\PhotoSharingApplication.csproj|solutionrelative:photosharingapplication\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\views\\albums\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\views\\albums\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\albums\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\models\\checkvalidyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\models\\checkvalidyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\models\\checkvalidyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\albums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\albums\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\albums\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\14-mvc-controller\\albumswebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\14-MVC-Controller\\albumswebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{456DA7A0-7123-478F-83E7-D5BC0611248A}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -106,17 +106,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Photo.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Models\\Photo.cs",
               "RelativeDocumentMoniker": "PhotoSharingApplication\\Models\\Photo.cs",
               "ToolTip": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Models\\Photo.cs",
               "RelativeToolTip": "PhotoSharingApplication\\Models\\Photo.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T22:06:04.536Z",
               "EditorCaption": ""
@@ -131,25 +131,24 @@
               "RelativeToolTip": "PhotoSharingApplication\\Models\\PhotoSharingInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:26:29.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T15:26:29.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Views\\Photo\\Create.cshtml",
               "RelativeDocumentMoniker": "PhotoSharingApplication\\Views\\Photo\\Create.cshtml",
               "ToolTip": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Views\\Photo\\Create.cshtml",
               "RelativeToolTip": "PhotoSharingApplication\\Views\\Photo\\Create.cshtml",
-              "ViewState": "AQIAABoAAADAMTMzM3MvwCkAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-07T15:09:57.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Views\\Photo\\Edit.cshtml",
               "RelativeDocumentMoniker": "PhotoSharingApplication\\Views\\Photo\\Edit.cshtml",
@@ -157,8 +156,7 @@
               "RelativeToolTip": "PhotoSharingApplication\\Views\\Photo\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T14:06:59.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T14:06:59.316Z"
             },
             {
               "$type": "Document",
@@ -170,8 +168,7 @@
               "RelativeToolTip": "PhotoSharingApplication\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T14:02:50.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T14:02:50.427Z"
             },
             {
               "$type": "Document",
@@ -183,8 +180,7 @@
               "RelativeToolTip": "PhotoSharingApplication\\Views\\Photo\\Display.cshtml",
               "ViewState": "AQIAAAsAAABAMzMzM5MwwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T13:35:58.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:35:58.139Z"
             },
             {
               "$type": "Document",
@@ -196,12 +192,11 @@
               "RelativeToolTip": "PhotoSharingApplication\\Controllers\\ValueReporter.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAtwB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:23:06.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T13:23:06.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Views\\Photo\\Delete.cshtml",
               "RelativeDocumentMoniker": "PhotoSharingApplication\\Views\\Photo\\Delete.cshtml",
@@ -214,13 +209,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PhotoController.cs",
               "DocumentMoniker": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Controllers\\PhotoController.cs",
               "RelativeDocumentMoniker": "PhotoSharingApplication\\Controllers\\PhotoController.cs",
               "ToolTip": "D:\\progTemp\\itucation\\14-MVC-Controller\\PhotoSharingApplication\\Controllers\\PhotoController.cs",
               "RelativeToolTip": "PhotoSharingApplication\\Controllers\\PhotoController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEoAAAAJAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T12:17:02.943Z",
               "EditorCaption": ""
@@ -235,8 +230,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Models\\AlbumsInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:26:40.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T15:26:40.87Z"
             },
             {
               "$type": "Document",
@@ -248,8 +242,7 @@
               "RelativeToolTip": "PhotoSharingApplication\\Models\\PhotoSharingContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:37:51.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T15:37:51.572Z"
             },
             {
               "$type": "Document",
@@ -261,8 +254,7 @@
               "RelativeToolTip": "PhotoSharingApplication\\Views\\Photo\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T12:24:53.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T12:24:53.583Z"
             },
             {
               "$type": "Document",
@@ -274,8 +266,7 @@
               "RelativeToolTip": "PhotoSharingApplication\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T12:03:38.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T12:03:38.706Z"
             },
             {
               "$type": "Document",
@@ -287,8 +278,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Models\\CheckValidYear.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T09:05:40.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:05:40.049Z"
             },
             {
               "$type": "Document",
@@ -300,8 +290,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T09:03:47.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:03:47.97Z"
             },
             {
               "$type": "Document",
@@ -313,8 +302,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T09:02:32.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:02:32.598Z"
             },
             {
               "$type": "Document",
@@ -339,8 +327,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Controllers\\AlbumsController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAQwGgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T08:49:15.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T08:49:15.085Z"
             },
             {
               "$type": "Document",
@@ -352,8 +339,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Views\\Albums\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T09:26:39.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:26:39.76Z"
             },
             {
               "$type": "Document",
@@ -365,8 +351,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Views\\Albums\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T08:54:40.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T08:54:40.327Z"
             },
             {
               "$type": "Document",
@@ -378,8 +363,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwCQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T09:26:08.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:26:08.58Z"
             },
             {
               "$type": "Document",
@@ -391,8 +375,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Views\\Albums\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T10:20:58.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T10:20:58.536Z"
             },
             {
               "$type": "Document",
@@ -404,8 +387,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Views\\Albums\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T09:47:41.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:47:41.721Z"
             },
             {
               "$type": "Document",
@@ -417,8 +399,7 @@
               "RelativeToolTip": "AlbumsWebApp\\Views\\Albums\\Create.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T09:32:20.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T09:32:20.688Z"
             }
           ]
         }

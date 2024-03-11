@@ -1,0 +1,2 @@
+D:\progTemp\itucation\15-MVC-View\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.AssemblyReference.cache
+D:\progTemp\itucation\15-MVC-View\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,34 @@
+﻿@model AlbumsWebApp.Models.Album
+
+@{
+    ViewBag.Title = "Opret et nyt album";
+}
+
+<h2>Opret et Album</h2>
+@using (Html.BeginForm("Create", "Albums", FormMethod.Post))
+{
+    @Html.AntiForgeryToken();
+    <p>
+        @Html.LabelFor(model => model.Title) @* lille m(model) referer modelen/klassen *@
+        @Html.EditorFor(model => Model.Title) @* Stort M(Model) referer modelens værdi *@
+        @Html.ValidationMessageFor(model => model.Title)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.Artist) @* lille m(model) referer modelen/klassen *@
+        @Html.EditorFor(model => Model.Artist) @* Stort M(Model) referer modelens værdi *@
+        @Html.ValidationMessageFor(model => model.Artist)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.ReleaseYear) @* lille m(model) referer modelen/klassen *@
+        @Html.EditorFor(model => Model.ReleaseYear) @* Stort M(Model) referer modelens værdi *@
+        @Html.ValidationMessageFor(model => model.ReleaseYear)
+    </p>
+    <input type="submit" value="Opret et Album"/>
+}
+
+<br />
+@Html.ActionLink("Du har stadigvæk muligheden for at afbryde!", "Index")
+
+

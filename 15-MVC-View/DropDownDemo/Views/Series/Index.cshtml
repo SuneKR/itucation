@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DropDownDemo.Models.Series>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SeriesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StreamingServiceID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SeriesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StreamingServiceID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SeriesID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SeriesID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SeriesID })
+        </td>
+    </tr>
+}
+
+</table>
+<p> - - - Drop Down List - - - </p>
+@Html.DropDownList("seriesDropDown", new SelectList(ViewBag.Series, "SeriesID", "SeriesName"), "Vælg en Serie!")
+
+<p> - - - Alt Drop Down List - - - </p>
+@Html.DropDownList("SelectFromController", "Vælg en Serie!")

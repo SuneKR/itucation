@@ -37,7 +37,6 @@ namespace PhotoSharingApplication.Controllers
 
         [HttpPost] public ActionResult Create(Photo photo, HttpPostedFileBase image)
         {
-
             if(!ModelState.IsValid || image == null) { return View("Create", photo); }
             photo.ImageMimeType = image.ContentType;
             photo.PhotoFile = new byte[image.ContentLength];

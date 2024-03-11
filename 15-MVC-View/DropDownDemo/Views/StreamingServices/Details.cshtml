@@ -1,0 +1,36 @@
+﻿@model DropDownDemo.Models.StreamingService
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>StreamingService</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ServiceName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ServiceName)
+        </dd>
+
+        <dd>
+            @Html.DisplayNameFor(model => model.Series):
+        </dd>
+        @foreach (var series in Model.Series)
+            {
+                <dd>
+                    @series.SeriesName
+                </dd>
+            }
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StreamingServiceID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

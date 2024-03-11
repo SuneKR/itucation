@@ -1,0 +1,638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\15-MVC-View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\models\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\models\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|D:\\progTemp\\itucation\\15-MVC-View\\databasefirstdemo2\\models\\voresdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\models\\voresdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\models\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\models\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\models\\streamingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\models\\streamingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\models\\streaminginit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\models\\streaminginit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\models\\streamingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\models\\streamingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\15-mvc-view\\albumswebapp\\models\\albumsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\models\\albumsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|d:\\progtemp\\itucation\\15-mvc-view\\albumswebapp\\models\\albumsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\models\\albumsinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\15-MVC-View\\albumswebapp\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\employesses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\employesses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\employesses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\employesses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\controllers\\employessescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\controllers\\employessescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\employesses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\employesses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\employesses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\employesses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|d:\\progtemp\\itucation\\15-mvc-view\\dropdowndemo\\views\\series\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\views\\series\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|d:\\progtemp\\itucation\\15-mvc-view\\databasefirstdemo2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB54A445-8F74-465F-922A-3401DFA7F967}|DatabaseFirstDemo2\\DatabaseFirstDemo2.csproj|solutionrelative:databasefirstdemo2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\15-MVC-View\\albumswebapp\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\albums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D459C8C-9B1C-44C8-97AF-D3BF8BE3BFCD}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\databasefirstdemo\\models\\voresdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7D459C8C-9B1C-44C8-97AF-D3BF8BE3BFCD}|DatabaseFirstDemo\\DatabaseFirstDemo.csproj|solutionrelative:databasefirstdemo\\models\\voresdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\views\\streamingservices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\views\\streamingservices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\controllers\\streamingservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\controllers\\streamingservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|D:\\progTemp\\itucation\\15-MVC-View\\dropdowndemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81AE3B15-4A30-4BF4-9E14-7C9E09BEE03A}|DropDownDemo\\DropDownDemo.csproj|solutionrelative:dropdowndemo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\15-MVC-View\\albumswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|D:\\progTemp\\itucation\\15-MVC-View\\albumswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95835898-50E2-4DCD-847D-96E728A9F1E1}|AlbumsWebApp\\AlbumsWebApp.csproj|solutionrelative:albumswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Details.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Employesses\\Details.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Details.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Employesses\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T00:32:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Create.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Employesses\\Create.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Create.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Employesses\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T00:19:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employess.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Employess.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Models\\Employess.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Employess.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Models\\Employess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:16:06.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T23:59:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StreamingService.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\StreamingService.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Models\\StreamingService.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\StreamingService.cs",
+              "RelativeToolTip": "DropDownDemo\\Models\\StreamingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:54:42.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StreamingInit.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\StreamingInit.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Models\\StreamingInit.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\StreamingInit.cs",
+              "RelativeToolTip": "DropDownDemo\\Models\\StreamingInit.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:16:59.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StreamingDB.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\StreamingDB.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Models\\StreamingDB.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\StreamingDB.cs",
+              "RelativeToolTip": "DropDownDemo\\Models\\StreamingDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:13:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Series.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\Series.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Models\\Series.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Models\\Series.cs",
+              "RelativeToolTip": "DropDownDemo\\Models\\Series.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:53:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Models\\Order.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Order.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Models\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:27:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoresDB.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\VoresDB.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Models\\VoresDB.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\VoresDB.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Models\\VoresDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:15:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Models\\Product.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Product.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Models\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:29:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumsInitializer.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Models\\AlbumsInitializer.cs",
+              "RelativeDocumentMoniker": "AlbumsWebApp\\Models\\AlbumsInitializer.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Models\\AlbumsInitializer.cs",
+              "RelativeToolTip": "AlbumsWebApp\\Models\\AlbumsInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:34:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlbumsDB.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Models\\AlbumsDB.cs",
+              "RelativeDocumentMoniker": "AlbumsWebApp\\Models\\AlbumsDB.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Models\\AlbumsDB.cs",
+              "RelativeToolTip": "AlbumsWebApp\\Models\\AlbumsDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:34:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T23:55:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployessesController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\EmployessesController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Controllers\\EmployessesController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\EmployessesController.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Controllers\\EmployessesController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:01:03.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:01:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "AlbumsWebApp\\Models\\Album.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Models\\Album.cs",
+              "RelativeToolTip": "AlbumsWebApp\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:20:20.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Employesses\\Edit.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Edit.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Employesses\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T00:19:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Employesses\\Index.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Employesses\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Employesses\\Index.cshtml",
+              "ViewState": "AQIAAA0AAADA/v///38pwCIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T00:20:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Models\\Customer.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Customer.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:29:24.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T23:25:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T23:22:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Models\\Department.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Models\\Department.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:13:36.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:23:21.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo2\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "DatabaseFirstDemo2\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:45:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VoresDB.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo\\Models\\VoresDB.edmx",
+              "RelativeDocumentMoniker": "DatabaseFirstDemo\\Models\\VoresDB.edmx",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DatabaseFirstDemo\\Models\\VoresDB.edmx [Diagram1]",
+              "RelativeToolTip": "DatabaseFirstDemo\\Models\\VoresDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-08T12:06:17.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\StreamingServices\\Details.cshtml",
+              "RelativeDocumentMoniker": "DropDownDemo\\Views\\StreamingServices\\Details.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\StreamingServices\\Details.cshtml",
+              "RelativeToolTip": "DropDownDemo\\Views\\StreamingServices\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T11:56:06.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Views\\Albums\\Create.cshtml",
+              "RelativeDocumentMoniker": "AlbumsWebApp\\Views\\Albums\\Create.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Views\\Albums\\Create.cshtml",
+              "RelativeToolTip": "AlbumsWebApp\\Views\\Albums\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T09:29:57.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\Series\\Create.cshtml",
+              "RelativeDocumentMoniker": "DropDownDemo\\Views\\Series\\Create.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\Series\\Create.cshtml",
+              "RelativeToolTip": "DropDownDemo\\Views\\Series\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAMDMzMzPrvy8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T11:48:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DropDownDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DropDownDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T11:54:32.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StreamingServicesController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Controllers\\StreamingServicesController.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Controllers\\StreamingServicesController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Controllers\\StreamingServicesController.cs",
+              "RelativeToolTip": "DropDownDemo\\Controllers\\StreamingServicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:53:07.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\Series\\Index.cshtml",
+              "RelativeDocumentMoniker": "DropDownDemo\\Views\\Series\\Index.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Views\\Series\\Index.cshtml",
+              "RelativeToolTip": "DropDownDemo\\Views\\Series\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T10:37:36.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SeriesController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Controllers\\SeriesController.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Controllers\\SeriesController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Controllers\\SeriesController.cs",
+              "RelativeToolTip": "DropDownDemo\\Controllers\\SeriesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:31:47.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Global.asax.cs",
+              "RelativeDocumentMoniker": "DropDownDemo\\Global.asax.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Global.asax.cs",
+              "RelativeToolTip": "DropDownDemo\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:29:10.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Web.config",
+              "RelativeDocumentMoniker": "DropDownDemo\\Web.config",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\DropDownDemo\\Web.config",
+              "RelativeToolTip": "DropDownDemo\\Web.config",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-08T10:25:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AlbumsWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AlbumsWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:19:14.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AlbumsWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\15-MVC-View\\AlbumsWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AlbumsWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T09:18:15.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
