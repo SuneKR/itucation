@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @Html.ActionLink("Kunder", "Index", "Customers", null, new { @class = "btn btn-success" })
+    @Html.ActionLink("Ordrer", "Index", "Orders", null, new { @class = "btn btn-info" })
+    @Html.ActionLink("Produkter", "Index", "Products", null, new { @class = "btn btn-danger" })
+</div>

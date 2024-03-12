@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\16-DiagramTestingCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C7DEC9-53DB-40EA-8F0F-21BD8909CFBE}|16-Assignments (WFRP campaign)\\16-Assignments (WFRP campaign).csproj|d:\\progtemp\\itucation\\16-diagramtestingcore\\16-assignments (wfrp campaign)\\models\\warhammerdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F2C7DEC9-53DB-40EA-8F0F-21BD8909CFBE}|16-Assignments (WFRP campaign)\\16-Assignments (WFRP campaign).csproj|solutionrelative:16-assignments (wfrp campaign)\\models\\warhammerdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarhammerDB.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\16-DiagramTestingCore\\16-Assignments (WFRP campaign)\\Models\\WarhammerDB.edmx",
+              "RelativeDocumentMoniker": "16-Assignments (WFRP campaign)\\Models\\WarhammerDB.edmx",
+              "ToolTip": "D:\\progTemp\\itucation\\16-DiagramTestingCore\\16-Assignments (WFRP campaign)\\Models\\WarhammerDB.edmx [Diagram1]",
+              "RelativeToolTip": "16-Assignments (WFRP campaign)\\Models\\WarhammerDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-11T22:20:48.569Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

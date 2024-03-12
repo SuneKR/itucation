@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\17-MigrationsRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD8C99-10F9-4464-A23F-5D9049C827EA}|17-Assignments\\17-Assignments.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\17-assignments\\todaysassignments.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{27CD8C99-10F9-4464-A23F-5D9049C827EA}|17-Assignments\\17-Assignments.csproj|solutionrelative:17-assignments\\todaysassignments.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CD8C99-10F9-4464-A23F-5D9049C827EA}|17-Assignments\\17-Assignments.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\17-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CD8C99-10F9-4464-A23F-5D9049C827EA}|17-Assignments\\17-Assignments.csproj|solutionrelative:17-assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Migrations\\20240312102031_CustomerEmailAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MigretionRoutingDemo\\Migrations\\20240312102031_CustomerEmailAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\models\\salesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\models\\salesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Migrations\\20240312100126_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MigretionRoutingDemo\\Migrations\\20240312100126_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|d:\\progtemp\\itucation\\17-migrationsrouting\\migretionroutingdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE311DD-30C3-4FCE-B228-043F9D95F07B}|MigretionRoutingDemo\\MigretionRoutingDemo.csproj|solutionrelative:migretionroutingdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodaysAssignments.txt",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\17-Assignments\\TodaysAssignments.txt",
+              "RelativeDocumentMoniker": "17-Assignments\\TodaysAssignments.txt",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\17-Assignments\\TodaysAssignments.txt",
+              "RelativeToolTip": "17-Assignments\\TodaysAssignments.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-12T12:27:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\17-Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "17-Assignments\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\17-Assignments\\Program.cs",
+              "RelativeToolTip": "17-Assignments\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:25:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T11:47:36.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T11:46:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T11:43:51.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T11:39:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T10:34:29.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T10:34:01.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MigretionRoutingDemo\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-12T10:30:20.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:28:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Program.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:41:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAABYAAAAA/////38SwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:27:20.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MigretionRoutingDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T10:34:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:28:12.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240312102031_CustomerEmailAdded.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Migrations\\20240312102031_CustomerEmailAdded.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Migrations\\20240312102031_CustomerEmailAdded.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Migrations\\20240312102031_CustomerEmailAdded.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Migrations\\20240312102031_CustomerEmailAdded.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:20:31.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240312100126_First.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Migrations\\20240312100126_First.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Migrations\\20240312100126_First.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Migrations\\20240312100126_First.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Migrations\\20240312100126_First.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:01:26.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\appsettings.json",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\appsettings.json",
+              "RelativeToolTip": "MigretionRoutingDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T09:40:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesDB.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\SalesDB.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Models\\SalesDB.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\SalesDB.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Models\\SalesDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:32:02.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Models\\Product.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\Product.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:24:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Models\\Order.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\Order.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:19:11.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MigretionRoutingDemo\\Models\\Customer.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\17-MigrationsRouting\\MigretionRoutingDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "MigretionRoutingDemo\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:16:07.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

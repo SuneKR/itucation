@@ -1,0 +1,83 @@
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\16-Assignments (WFRP campaign).dll.config
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\16-Assignments (WFRP campaign).dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\16-Assignments (WFRP campaign).pdb
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\csc.exe
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\csc.exe.config
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\csc.rsp
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\csi.exe
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\csi.exe.config
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\csi.rsp
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.Managed.Core.targets
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.AppContext.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Collections.Immutable.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Console.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Globalization.Calendars.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.IO.Compression.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.IO.FileSystem.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Net.Http.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Net.Sockets.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Reflection.Metadata.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.ValueTuple.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Xml.XmlDocument.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Xml.XPath.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\vbc.exe
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\vbc.exe.config
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\vbc.rsp
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\VBCSCompiler.exe
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\roslyn\VBCSCompiler.exe.config
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Antlr3.Runtime.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Microsoft.Web.Infrastructure.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Newtonsoft.Json.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Helpers.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Mvc.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Optimization.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Razor.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.WebPages.Deployment.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.WebPages.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.WebPages.Razor.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\WebGrease.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Helpers.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Mvc.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Optimization.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.Razor.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.WebPages.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.WebPages.Deployment.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\System.Web.WebPages.Razor.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Newtonsoft.Json.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Antlr3.Runtime.pdb
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\obj\Debug\16-Assignments (WFRP campaign).csproj.AssemblyReference.cache
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\obj\Debug\16-Assignments (WFRP campaign).csproj.CoreCompileInputs.cache
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\obj\Debug\16-Assig.95890804.Up2Date
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\obj\Debug\16-Assignments (WFRP campaign).dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\obj\Debug\16-Assignments (WFRP campaign).pdb
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\EntityFramework.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\EntityFramework.SqlServer.dll
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\EntityFramework.xml
+D:\progTemp\itucation\16-DiagramTestingCore\16-Assignments (WFRP campaign)\bin\EntityFramework.SqlServer.xml

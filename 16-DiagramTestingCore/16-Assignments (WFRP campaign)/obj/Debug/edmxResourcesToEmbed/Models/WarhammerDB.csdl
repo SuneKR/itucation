@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="WarhammerDB" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="WarhammerDBContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Characters" EntityType="WarhammerDB.Character" />
+    <EntitySet Name="Species" EntityType="WarhammerDB.Species" />
+    <EntitySet Name="Carreers" EntityType="WarhammerDB.Carreer" />
+    <EntitySet Name="PlayersSet" EntityType="WarhammerDB.Players" />
+    <EntitySet Name="CarrerTiers" EntityType="WarhammerDB.CarrerTier" />
+    <EntitySet Name="StatusTiers" EntityType="WarhammerDB.StatusTier" />
+    <EntitySet Name="ClassSet" EntityType="WarhammerDB.Class" />
+    <EntitySet Name="StarSigns" EntityType="WarhammerDB.StarSign" />
+    <EntitySet Name="Seasons" EntityType="WarhammerDB.Season" />
+    <AssociationSet Name="SeasonStarSign" Association="WarhammerDB.SeasonStarSign">
+      <End Role="Season" EntitySet="Seasons" />
+      <End Role="StarSign" EntitySet="StarSigns" />
+    </AssociationSet>
+    <AssociationSet Name="StatusTierCarrerTier" Association="WarhammerDB.StatusTierCarrerTier">
+      <End Role="StatusTier" EntitySet="StatusTiers" />
+      <End Role="CarrerTier" EntitySet="CarrerTiers" />
+    </AssociationSet>
+    <AssociationSet Name="ClassCarreer" Association="WarhammerDB.ClassCarreer">
+      <End Role="Class" EntitySet="ClassSet" />
+      <End Role="Carreer" EntitySet="Carreers" />
+    </AssociationSet>
+    <AssociationSet Name="CarreerCarrerTier" Association="WarhammerDB.CarreerCarrerTier">
+      <End Role="Carreer" EntitySet="Carreers" />
+      <End Role="CarrerTier" EntitySet="CarrerTiers" />
+    </AssociationSet>
+    <AssociationSet Name="CarrerTierCharacter" Association="WarhammerDB.CarrerTierCharacter">
+      <End Role="CarrerTier" EntitySet="CarrerTiers" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <AssociationSet Name="PlayersCharacter" Association="WarhammerDB.PlayersCharacter">
+      <End Role="Players" EntitySet="PlayersSet" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <AssociationSet Name="StarSignCharacter" Association="WarhammerDB.StarSignCharacter">
+      <End Role="StarSign" EntitySet="StarSigns" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <EntitySet Name="Characteristics" EntityType="WarhammerDB.Characteristic" />
+    <EntitySet Name="CharacteristicNames" EntityType="WarhammerDB.CharacteristicName" />
+    <AssociationSet Name="CharacteristicNameCharacteristic" Association="WarhammerDB.CharacteristicNameCharacteristic">
+      <End Role="CharacteristicName" EntitySet="CharacteristicNames" />
+      <End Role="Characteristic" EntitySet="Characteristics" />
+    </AssociationSet>
+    <AssociationSet Name="CharacteristicCharacter" Association="WarhammerDB.CharacteristicCharacter">
+      <End Role="Characteristic" EntitySet="Characteristics" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <EntitySet Name="Skills" EntityType="WarhammerDB.Skill" />
+    <EntitySet Name="SkillTypes" EntityType="WarhammerDB.SkillType" />
+    <AssociationSet Name="SkillTypeSkill" Association="WarhammerDB.SkillTypeSkill">
+      <End Role="SkillType" EntitySet="SkillTypes" />
+      <End Role="Skill" EntitySet="Skills" />
+    </AssociationSet>
+    <AssociationSet Name="SpeciesCharacter" Association="WarhammerDB.SpeciesCharacter">
+      <End Role="Species" EntitySet="Species" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <EntitySet Name="Parties" EntityType="WarhammerDB.Party" />
+    <AssociationSet Name="PartyCharacter" Association="WarhammerDB.PartyCharacter">
+      <End Role="Party" EntitySet="Parties" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <AssociationSet Name="SkillCharacteristic" Association="WarhammerDB.SkillCharacteristic">
+      <End Role="Skill" EntitySet="Skills" />
+      <End Role="Characteristic" EntitySet="Characteristics" />
+    </AssociationSet>
+    <EntitySet Name="Talents" EntityType="WarhammerDB.Talent" />
+    <EntitySet Name="TalentsTaken" EntityType="WarhammerDB.CharacterTalent" />
+    <AssociationSet Name="TalentsTakenCharacter" Association="WarhammerDB.TalentsTakenCharacter">
+      <End Role="TalentsTaken" EntitySet="TalentsTaken" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <AssociationSet Name="TalentsTakenTalent" Association="WarhammerDB.TalentsTakenTalent">
+      <End Role="TalentsTaken" EntitySet="TalentsTaken" />
+      <End Role="Talent" EntitySet="Talents" />
+    </AssociationSet>
+    <EntitySet Name="CharacterSkills" EntityType="WarhammerDB.CharacterSkill" />
+    <AssociationSet Name="SkillCharacterSkill" Association="WarhammerDB.SkillCharacterSkill">
+      <End Role="Skill" EntitySet="Skills" />
+      <End Role="CharacterSkill" EntitySet="CharacterSkills" />
+    </AssociationSet>
+    <AssociationSet Name="CharacterSkillCharacter" Association="WarhammerDB.CharacterSkillCharacter">
+      <End Role="CharacterSkill" EntitySet="CharacterSkills" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <EntitySet Name="OtherAttribute" EntityType="WarhammerDB.OtherAttribute" />
+    <AssociationSet Name="OtherAttributeCharacter" Association="WarhammerDB.OtherAttributeCharacter">
+      <End Role="OtherAttribute" EntitySet="OtherAttribute" />
+      <End Role="Character" EntitySet="Characters" />
+    </AssociationSet>
+    <EntitySet Name="OtherAttributeNameSet" EntityType="WarhammerDB.OtherAttributeName" />
+    <AssociationSet Name="OtherAttributeNameOtherAttribute" Association="WarhammerDB.OtherAttributeNameOtherAttribute">
+      <End Role="OtherAttributeName" EntitySet="OtherAttributeNameSet" />
+      <End Role="OtherAttribute" EntitySet="OtherAttribute" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Character">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" />
+    <Property Name="PlayersId" Type="Int32" Nullable="false" />
+    <Property Name="CharacterName" Type="String" Nullable="false" />
+    <Property Name="PartyId" Type="Int32" Nullable="false" />
+    <Property Name="SpeciesId" Type="Int32" Nullable="false" />
+    <Property Name="CarrerTierId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CarrerTier" Relationship="WarhammerDB.CarrerTierCharacter" FromRole="Character" ToRole="CarrerTier" />
+    <NavigationProperty Name="Players" Relationship="WarhammerDB.PlayersCharacter" FromRole="Character" ToRole="Players" />
+    <NavigationProperty Name="StarSign" Relationship="WarhammerDB.StarSignCharacter" FromRole="Character" ToRole="StarSign" />
+    <Property Name="Age" Type="String" Nullable="false" />
+    <Property Name="Height" Type="String" Nullable="false" />
+    <Property Name="Hair" Type="String" Nullable="false" />
+    <Property Name="Eyes" Type="String" Nullable="false" />
+    <Property Name="StarSignId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Characteristic" Relationship="WarhammerDB.CharacteristicCharacter" FromRole="Character" ToRole="Characteristic" />
+    <NavigationProperty Name="Species" Relationship="WarhammerDB.SpeciesCharacter" FromRole="Character" ToRole="Species" />
+    <NavigationProperty Name="Party" Relationship="WarhammerDB.PartyCharacter" FromRole="Character" ToRole="Party" />
+    <NavigationProperty Name="CharacterTalent" Relationship="WarhammerDB.TalentsTakenCharacter" FromRole="Character" ToRole="TalentsTaken" />
+    <NavigationProperty Name="CharacterSkill" Relationship="WarhammerDB.CharacterSkillCharacter" FromRole="Character" ToRole="CharacterSkill" />
+    <NavigationProperty Name="OtherAttribute" Relationship="WarhammerDB.OtherAttributeCharacter" FromRole="Character" ToRole="OtherAttribute" />
+    <Property Name="Motivation" Type="String" Nullable="false" />
+    <Property Name="AmbitionShortTerm" Type="String" Nullable="false" />
+    <Property Name="AmbitionLongTerm" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Species">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SpeciesName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.SpeciesCharacter" FromRole="Species" ToRole="Character" />
+  </EntityType>
+  <EntityType Name="Carreer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CarrerName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Class" Relationship="WarhammerDB.ClassCarreer" FromRole="Carreer" ToRole="Class" />
+    <Property Name="ClassId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CarrerTier" Relationship="WarhammerDB.CarreerCarrerTier" FromRole="Carreer" ToRole="CarrerTier" />
+  </EntityType>
+  <EntityType Name="Players">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PlayerName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.PlayersCharacter" FromRole="Players" ToRole="Character" />
+  </EntityType>
+  <EntityType Name="CarrerTier">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CarrerTierName" Type="String" Nullable="false" />
+    <Property Name="TierLevel" Type="String" Nullable="false" />
+    <Property Name="StatusStanding" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="StatusTier" Relationship="WarhammerDB.StatusTierCarrerTier" FromRole="CarrerTier" ToRole="StatusTier" />
+    <Property Name="StatusTierId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Carreer" Relationship="WarhammerDB.CarreerCarrerTier" FromRole="CarrerTier" ToRole="Carreer" />
+    <Property Name="CarreerId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.CarrerTierCharacter" FromRole="CarrerTier" ToRole="Character" />
+  </EntityType>
+  <EntityType Name="StatusTier">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StatusTierName" Type="String" Nullable="false" />
+    <NavigationProperty Name="CarrerTier" Relationship="WarhammerDB.StatusTierCarrerTier" FromRole="StatusTier" ToRole="CarrerTier" />
+  </EntityType>
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Carreer" Relationship="WarhammerDB.ClassCarreer" FromRole="Class" ToRole="Carreer" />
+  </EntityType>
+  <EntityType Name="StarSign">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SignName" Type="String" Nullable="false" />
+    <Property Name="SignNameClassical" Type="String" Nullable="false" />
+    <Property Name="Significance" Type="String" Nullable="false" />
+    <Property Name="Duration" Type="String" Nullable="false" />
+    <NavigationProperty Name="Season" Relationship="WarhammerDB.SeasonStarSign" FromRole="StarSign" ToRole="Season" />
+    <Property Name="SeasonId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.StarSignCharacter" FromRole="StarSign" ToRole="Character" />
+  </EntityType>
+  <EntityType Name="Season">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SeasonName" Type="String" Nullable="false" />
+    <NavigationProperty Name="StarSign" Relationship="WarhammerDB.SeasonStarSign" FromRole="Season" ToRole="StarSign" />
+  </EntityType>
+  <Association Name="SeasonStarSign">
+    <End Type="WarhammerDB.Season" Role="Season" Multiplicity="1" />
+    <End Type="WarhammerDB.StarSign" Role="StarSign" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Season">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="StarSign">
+        <PropertyRef Name="SeasonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="StatusTierCarrerTier">
+    <End Type="WarhammerDB.StatusTier" Role="StatusTier" Multiplicity="1" />
+    <End Type="WarhammerDB.CarrerTier" Role="CarrerTier" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StatusTier">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CarrerTier">
+        <PropertyRef Name="StatusTierId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ClassCarreer">
+    <End Type="WarhammerDB.Class" Role="Class" Multiplicity="1" />
+    <End Type="WarhammerDB.Carreer" Role="Carreer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Class">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Carreer">
+        <PropertyRef Name="ClassId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CarreerCarrerTier">
+    <End Type="WarhammerDB.Carreer" Role="Carreer" Multiplicity="1" />
+    <End Type="WarhammerDB.CarrerTier" Role="CarrerTier" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Carreer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CarrerTier">
+        <PropertyRef Name="CarreerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CarrerTierCharacter">
+    <End Type="WarhammerDB.CarrerTier" Role="CarrerTier" Multiplicity="1" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CarrerTier">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Character">
+        <PropertyRef Name="CarrerTierId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PlayersCharacter">
+    <End Type="WarhammerDB.Players" Role="Players" Multiplicity="1" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Players">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Character">
+        <PropertyRef Name="PlayersId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="StarSignCharacter">
+    <End Type="WarhammerDB.StarSign" Role="StarSign" Multiplicity="1" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StarSign">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Character">
+        <PropertyRef Name="StarSignId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Characteristic">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CharacterId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CharacteristicName" Relationship="WarhammerDB.CharacteristicNameCharacteristic" FromRole="Characteristic" ToRole="CharacteristicName" />
+    <Property Name="CharacteristicNameId" Type="Int32" Nullable="false" />
+    <Property Name="InitialValue" Type="Int32" Nullable="false" />
+    <Property Name="Advances" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.CharacteristicCharacter" FromRole="Characteristic" ToRole="Character" />
+    <NavigationProperty Name="Skill" Relationship="WarhammerDB.SkillCharacteristic" FromRole="Characteristic" ToRole="Skill" />
+  </EntityType>
+  <EntityType Name="CharacteristicName">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" Nullable="false" />
+    <Property Name="Abbreviation" Type="String" Nullable="false" />
+    <NavigationProperty Name="Characteristic" Relationship="WarhammerDB.CharacteristicNameCharacteristic" FromRole="CharacteristicName" ToRole="Characteristic" />
+  </EntityType>
+  <Association Name="CharacteristicNameCharacteristic">
+    <End Type="WarhammerDB.CharacteristicName" Role="CharacteristicName" Multiplicity="1" />
+    <End Type="WarhammerDB.Characteristic" Role="Characteristic" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CharacteristicName">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Characteristic">
+        <PropertyRef Name="CharacteristicNameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CharacteristicCharacter">
+    <End Type="WarhammerDB.Characteristic" Role="Characteristic" Multiplicity="*" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Character">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Characteristic">
+        <PropertyRef Name="CharacterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Skill">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="SkillType" Relationship="WarhammerDB.SkillTypeSkill" FromRole="Skill" ToRole="SkillType" />
+    <Property Name="SkillTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Characteristic" Relationship="WarhammerDB.SkillCharacteristic" FromRole="Skill" ToRole="Characteristic" />
+    <Property Name="SkillName" Type="String" Nullable="false" />
+    <Property Name="CharacteristicId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CharacterSkill" Relationship="WarhammerDB.SkillCharacterSkill" FromRole="Skill" ToRole="CharacterSkill" />
+  </EntityType>
+  <EntityType Name="SkillType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SkillTypeName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Skill" Relationship="WarhammerDB.SkillTypeSkill" FromRole="SkillType" ToRole="Skill" />
+  </EntityType>
+  <Association Name="SkillTypeSkill">
+    <End Type="WarhammerDB.SkillType" Role="SkillType" Multiplicity="1" />
+    <End Type="WarhammerDB.Skill" Role="Skill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SkillType">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Skill">
+        <PropertyRef Name="SkillTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SpeciesCharacter">
+    <End Type="WarhammerDB.Species" Role="Species" Multiplicity="1" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Species">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Character">
+        <PropertyRef Name="SpeciesId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Party">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PartyName" Type="String" Nullable="false" />
+    <Property Name="PartyShortTermAmbition" Type="String" Nullable="false" />
+    <Property Name="PartyLongTermAmbition" Type="String" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.PartyCharacter" FromRole="Party" ToRole="Character" />
+  </EntityType>
+  <Association Name="PartyCharacter">
+    <End Type="WarhammerDB.Party" Role="Party" Multiplicity="1" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Party">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Character">
+        <PropertyRef Name="PartyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="SkillCharacteristic">
+    <End Type="WarhammerDB.Skill" Role="Skill" Multiplicity="*" />
+    <End Type="WarhammerDB.Characteristic" Role="Characteristic" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Characteristic">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Skill">
+        <PropertyRef Name="CharacteristicId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Talent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Max" Type="String" Nullable="false" />
+    <Property Name="Test" Type="String" Nullable="true" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <NavigationProperty Name="TalentsTaken" Relationship="WarhammerDB.TalentsTakenTalent" FromRole="Talent" ToRole="TalentsTaken" />
+  </EntityType>
+  <EntityType Name="CharacterTalent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.TalentsTakenCharacter" FromRole="TalentsTaken" ToRole="Character" />
+    <Property Name="CharacterId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Talent" Relationship="WarhammerDB.TalentsTakenTalent" FromRole="TalentsTaken" ToRole="Talent" />
+    <Property Name="TalentId" Type="Int32" Nullable="false" />
+    <Property Name="TimesTaken" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="TalentsTakenCharacter">
+    <End Type="WarhammerDB.CharacterTalent" Role="TalentsTaken" Multiplicity="*" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Character">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="TalentsTaken">
+        <PropertyRef Name="CharacterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="TalentsTakenTalent">
+    <End Type="WarhammerDB.CharacterTalent" Role="TalentsTaken" Multiplicity="*" />
+    <End Type="WarhammerDB.Talent" Role="Talent" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Talent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="TalentsTaken">
+        <PropertyRef Name="TalentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="CharacterSkill">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Skill" Relationship="WarhammerDB.SkillCharacterSkill" FromRole="CharacterSkill" ToRole="Skill" />
+    <Property Name="CharacterId" Type="Int32" Nullable="false" />
+    <Property Name="SkillId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.CharacterSkillCharacter" FromRole="CharacterSkill" ToRole="Character" />
+    <Property Name="Advances" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="SkillCharacterSkill">
+    <End Type="WarhammerDB.Skill" Role="Skill" Multiplicity="1" />
+    <End Type="WarhammerDB.CharacterSkill" Role="CharacterSkill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Skill">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CharacterSkill">
+        <PropertyRef Name="SkillId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CharacterSkillCharacter">
+    <End Type="WarhammerDB.CharacterSkill" Role="CharacterSkill" Multiplicity="*" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Character">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CharacterSkill">
+        <PropertyRef Name="CharacterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="OtherAttribute">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Character" Relationship="WarhammerDB.OtherAttributeCharacter" FromRole="OtherAttribute" ToRole="Character" />
+    <Property Name="CharacterId" Type="Int32" Nullable="false" />
+    <Property Name="Value" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="OtherAttributeName" Relationship="WarhammerDB.OtherAttributeNameOtherAttribute" FromRole="OtherAttribute" ToRole="OtherAttributeName" />
+    <Property Name="OtherAttributeNameId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="OtherAttributeCharacter">
+    <End Type="WarhammerDB.OtherAttribute" Role="OtherAttribute" Multiplicity="*" />
+    <End Type="WarhammerDB.Character" Role="Character" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Character">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OtherAttribute">
+        <PropertyRef Name="CharacterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="OtherAttributeName">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AttributeName" Type="String" Nullable="false" />
+    <NavigationProperty Name="OtherAttribute" Relationship="WarhammerDB.OtherAttributeNameOtherAttribute" FromRole="OtherAttributeName" ToRole="OtherAttribute" />
+  </EntityType>
+  <Association Name="OtherAttributeNameOtherAttribute">
+    <End Type="WarhammerDB.OtherAttributeName" Role="OtherAttributeName" Multiplicity="1" />
+    <End Type="WarhammerDB.OtherAttribute" Role="OtherAttribute" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OtherAttributeName">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OtherAttribute">
+        <PropertyRef Name="OtherAttributeNameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
