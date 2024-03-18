@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\19-WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\controllers\\externalcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\controllers\\externalcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\externalcall\\externalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\externalcall\\externalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\externalcall\\iexternaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\externalcall\\iexternaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\models\\booksdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\booksdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\models\\ibooksinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\ibooksinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\models\\booksdatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\booksdatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\models\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\models\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\webapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\webapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|d:\\progtemp\\itucation\\19-webapi\\webapidemo\\migrations\\20240314093541_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADD3816-EA9B-48EA-B3EC-4A8FCA60CB89}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\migrations\\20240314093541_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExternalCallController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Controllers\\ExternalCallController.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Controllers\\ExternalCallController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Controllers\\ExternalCallController.cs",
+              "RelativeToolTip": "WebAPIDemo\\Controllers\\ExternalCallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:28:18.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExternalClient.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\ExternalCall\\ExternalClient.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\ExternalCall\\ExternalClient.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\ExternalCall\\ExternalClient.cs",
+              "RelativeToolTip": "WebAPIDemo\\ExternalCall\\ExternalClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:16:03.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExternalData.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\ExternalCall\\IExternalData.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\ExternalCall\\IExternalData.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\ExternalCall\\IExternalData.cs",
+              "RelativeToolTip": "WebAPIDemo\\ExternalCall\\IExternalData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:15:12.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\Person.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\Person.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:13:53.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksDatabaseRepository.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\BooksDatabaseRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\BooksDatabaseRepository.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\BooksDatabaseRepository.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\BooksDatabaseRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:39:10.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240314093541_First.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Migrations\\20240314093541_First.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Migrations\\20240314093541_First.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Migrations\\20240314093541_First.cs",
+              "RelativeToolTip": "WebAPIDemo\\Migrations\\20240314093541_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:35:41.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebAPIDemo.csproj",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\WebAPIDemo.csproj",
+              "RelativeDocumentMoniker": "WebAPIDemo\\WebAPIDemo.csproj",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\WebAPIDemo.csproj",
+              "RelativeToolTip": "WebAPIDemo\\WebAPIDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T09:33:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIDemo\\appsettings.json",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\appsettings.json",
+              "RelativeToolTip": "WebAPIDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T09:22:08.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksDB.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\BooksDB.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\BooksDB.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\BooksDB.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\BooksDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:20:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Program.cs",
+              "RelativeToolTip": "WebAPIDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:55:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\BooksRepository.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\BooksRepository.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\BooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:47:47.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBooksInterface.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\IBooksInterface.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\IBooksInterface.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\IBooksInterface.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\IBooksInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:41:59.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPIDemo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T10:37:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Models\\Book.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Models\\Book.cs",
+              "RelativeToolTip": "WebAPIDemo\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:22:01.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\19-WebAPI\\WebAPIDemo\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebAPIDemo\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:19:35.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

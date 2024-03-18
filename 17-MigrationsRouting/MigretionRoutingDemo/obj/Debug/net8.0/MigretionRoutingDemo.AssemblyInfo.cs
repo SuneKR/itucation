@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MigretionRoutingDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f231674f5b7fcadb69a794e4018bfe2a6b2968b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ea34db76508bf9a2beaa0a86918eb07d9e7ba2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MigretionRoutingDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MigretionRoutingDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

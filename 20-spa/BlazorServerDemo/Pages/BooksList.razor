@@ -1,0 +1,32 @@
+﻿@page "/books"
+
+<h3>Liste af Bøger</h3>
+
+@if (Books != null && Books.Count > 0)
+{
+    <h2> Yay There are @Books.Count Books in our System!</h2>
+
+    <table class="table table-striped ta table-bordered table-sm">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Books)
+            {
+                <tr>
+                    <td>@b.Id</td>
+                    <td>@b.Title</td>
+                    <td>@b.Author</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+}

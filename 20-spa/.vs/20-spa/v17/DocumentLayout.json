@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progTemp\\itucation\\20-spa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE87382F-5A16-4849-861C-19A3FD0C040D}|BlazorWASMDemo\\BlazorWASMDemo.Client\\BlazorWASMDemo.Client.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo.client\\pages\\hentkunder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE87382F-5A16-4849-861C-19A3FD0C040D}|BlazorWASMDemo\\BlazorWASMDemo.Client\\BlazorWASMDemo.Client.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo.client\\pages\\hentkunder.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\components\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\components\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|d:\\progtemp\\itucation\\20-spa\\blazorwasmdemo\\blazorwasmdemo\\models\\kundedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C53B8F-949E-4323-B4F4-58B7126852B2}|BlazorWASMDemo\\BlazorWASMDemo\\BlazorWASMDemo.csproj|solutionrelative:blazorwasmdemo\\blazorwasmdemo\\models\\kundedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T09:28:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HentKunder.razor",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo.Client\\Pages\\HentKunder.razor",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo.Client\\Pages\\HentKunder.razor",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo.Client\\Pages\\HentKunder.razor",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo.Client\\Pages\\HentKunder.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T09:20:00.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\appsettings.json",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\appsettings.json",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T09:10:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\Program.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Program.cs",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:08:30.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T09:07:58.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Components\\CustomersController.cs",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\Components\\CustomersController.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Components\\CustomersController.cs",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\Components\\CustomersController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAmwGkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:04:59.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KundeDB.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Models\\KundeDB.cs",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\Models\\KundeDB.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Models\\KundeDB.cs",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\Models\\KundeDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:40:37.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BlazorWASMDemo\\BlazorWASMDemo\\Models\\Customer.cs",
+              "ToolTip": "D:\\progTemp\\itucation\\20-spa\\BlazorWASMDemo\\BlazorWASMDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "BlazorWASMDemo\\BlazorWASMDemo\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:36:12.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

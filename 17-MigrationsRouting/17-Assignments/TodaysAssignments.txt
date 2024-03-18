@@ -141,4 +141,4 @@ How do you successfully get the Moria() method to print 'Enter' i.e. which argum
 
     Moria(null, "friend")
     
-    first and second else if is unreachable
+    first else if is unreachable
